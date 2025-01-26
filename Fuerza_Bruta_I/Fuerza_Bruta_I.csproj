@@ -7,4 +7,12 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <None Include="bin\Debug\net9.0\passwords.txt" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="bin\Debug\net9.0\" />
+    </ItemGroup>
+
 </Project>

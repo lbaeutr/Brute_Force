@@ -1,0 +1,15 @@
+C:\Users\lbaen\Desktop\Fuerza_Bruta_I\Fuerza_Bruta_I\bin\Debug\net9.0\Fuerza_Bruta_I.exe
+C:\Users\lbaen\Desktop\Fuerza_Bruta_I\Fuerza_Bruta_I\bin\Debug\net9.0\Fuerza_Bruta_I.deps.json
+C:\Users\lbaen\Desktop\Fuerza_Bruta_I\Fuerza_Bruta_I\bin\Debug\net9.0\Fuerza_Bruta_I.runtimeconfig.json
+C:\Users\lbaen\Desktop\Fuerza_Bruta_I\Fuerza_Bruta_I\bin\Debug\net9.0\Fuerza_Bruta_I.dll
+C:\Users\lbaen\Desktop\Fuerza_Bruta_I\Fuerza_Bruta_I\bin\Debug\net9.0\Fuerza_Bruta_I.pdb
+C:\Users\lbaen\Desktop\Fuerza_Bruta_I\Fuerza_Bruta_I\obj\Debug\net9.0\Fuerza_Bruta_I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbaen\Desktop\Fuerza_Bruta_I\Fuerza_Bruta_I\obj\Debug\net9.0\Fuerza_Bruta_I.AssemblyInfoInputs.cache
+C:\Users\lbaen\Desktop\Fuerza_Bruta_I\Fuerza_Bruta_I\obj\Debug\net9.0\Fuerza_Bruta_I.AssemblyInfo.cs
+C:\Users\lbaen\Desktop\Fuerza_Bruta_I\Fuerza_Bruta_I\obj\Debug\net9.0\Fuerza_Bruta_I.csproj.CoreCompileInputs.cache
+C:\Users\lbaen\Desktop\Fuerza_Bruta_I\Fuerza_Bruta_I\obj\Debug\net9.0\Fuerza_Bruta_I.sourcelink.json
+C:\Users\lbaen\Desktop\Fuerza_Bruta_I\Fuerza_Bruta_I\obj\Debug\net9.0\Fuerza_Bruta_I.dll
+C:\Users\lbaen\Desktop\Fuerza_Bruta_I\Fuerza_Bruta_I\obj\Debug\net9.0\refint\Fuerza_Bruta_I.dll
+C:\Users\lbaen\Desktop\Fuerza_Bruta_I\Fuerza_Bruta_I\obj\Debug\net9.0\Fuerza_Bruta_I.pdb
+C:\Users\lbaen\Desktop\Fuerza_Bruta_I\Fuerza_Bruta_I\obj\Debug\net9.0\Fuerza_Bruta_I.genruntimeconfig.cache
+C:\Users\lbaen\Desktop\Fuerza_Bruta_I\Fuerza_Bruta_I\obj\Debug\net9.0\ref\Fuerza_Bruta_I.dll

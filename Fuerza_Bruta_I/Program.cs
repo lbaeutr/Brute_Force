@@ -13,10 +13,10 @@ class Program
 
         if (File.Exists(contrasena))
         {
-            string[] contrasenasArchivo = File.ReadAllLines(contrasena);
+            string[] contrasenasArchivo = File.ReadAllLines(contrasena); // Po
 
             // Calculo del hash SHA-256 de la contraseña objetivo
-            string hashToCrack = ComputeSha256Hash("!boshito!");
+            string hashToCrack = ComputeSha256Hash("00001019");
             Console.WriteLine($"Buscando la contraseña con hash: {hashToCrack}");
 
             var seTermino = new Wrapper<string>(""); // Variable compartida entre hilos
@@ -46,6 +46,7 @@ class Program
             while (string.IsNullOrEmpty(seTermino.Value))
             {
                 // Esperando que algún hilo termine
+                Thread.Sleep(10); // Pausa de 10 ms para no saturar el procesador
             }
 
             // Notificar a los hilos que la contraseña fue encontrada
@@ -115,6 +116,6 @@ class Program
             // Esperar a que se termine la fuerza bruta
         }
 
-        finalizar?.Invoke(hiloNumero);
+        finalizar?.Invoke(hiloNumero); // Notificar que el hilo ha terminado
     }
 }
